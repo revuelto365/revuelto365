@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/revuelto365-logo.jpg" alt="Revuelto365 logo" width="100%" />
+  <img src="https://github.com/revuelto365/revuelto365/blob/main/IMG_20261120_144742_807.jpg" alt="Revuelto365 logo" width="100%" />
 
   <h1>Revuelto365</h1>
   <h3>AI-Assisted Multi-Asset Trading Platform</h3>
